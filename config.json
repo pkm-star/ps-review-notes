@@ -1,0 +1,12 @@
+{
+  "model": "haiku",
+  "port": 8765,
+  "review_intervals_days": [
+    1,
+    3,
+    7,
+    21
+  ],
+  "generation_timeout_seconds": 240,
+  "debug_today": null
+}
